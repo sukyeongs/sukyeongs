@@ -28,5 +28,5 @@ Tools that I've used at least once when coworking
 if you want to contact me...
 
 <a href="mailto:tjtnrud@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://github.com/sukyeongs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
