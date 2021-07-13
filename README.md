@@ -1,7 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=F5A9BC&height=290&section=header&text=Sukyeong%20Seo&fontSize=90&fontColor=FFFFFF)
-  
   [![sukyeongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeongs&count_private=true&show_icons=true&theme=dracula)](https://github.com/sukyeongs/github-readme-stats)
 
   ### ⛏Stack🔧
