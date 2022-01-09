@@ -2,7 +2,7 @@
   
   [![sukyeongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeongs&count_private=true&show_icons=true&theme=dracula)](https://github.com/sukyeongs/github-readme-stats)
 
-  ### ⛏Stack🔧
+  ## ⛏Stack🔧
 
   Techs that I've used at least once
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>  
     
   
-  ### ✨Coworking tools✨
+  ## ✨Coworking tools✨
 
   Tools that I've used at least once when coworking
   
@@ -25,9 +25,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
     
   
-  ### 🐶Me🐶
-  
-  if you want to contact me...
+  ## 🐶Me🐶
   
   <a href="mailto:tjtnrud@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/sukyeongs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
