@@ -3,7 +3,7 @@
   [![sukyeongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeongs&count_private=true&show_icons=true&theme=dracula)](https://github.com/sukyeongs/github-readme-stats)
 
   
-  ## ⛏ TechStack 🔧
+  ## ⛏ Tech Stack 🔧
 
   Techs that I've used at least once
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
     
   
-  ## ✨ Coworking tools ✨
+  ## ✨ Coworking Tools ✨
 
   Tools that I've used at least once when coworking
   
