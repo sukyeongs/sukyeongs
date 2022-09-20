@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=F7819F&height=300&section=header&text=SukyeongSeo&fontSize=90&desc=BE Developer&fontColor=151515" />
   
   [![sukyeongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeongs&count_private=true&show_icons=true&theme=dracula)](https://github.com/sukyeongs/github-readme-stats)
 
