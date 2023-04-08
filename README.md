@@ -29,7 +29,7 @@
   |2022.12 ~ |B2B 구독 임직원 개인화 복지 SaaS <a href="https://github.com/Giftifit/Beneeds-Server">Beneeds</a> 백엔드 개발자|
   |2023.02 ~ |디자인시스템 제작자동화 서비스 <a href="https://github.com/Team-VISTA/astee-growth-django">Astee</a> 백엔드 개발자|
   |2023.02 ~ |디자인시스템 제작자동화 서비스 <a href="https://github.com/Team-VISTA/astee-growth-django">Astee</a> AI 개발자|
-  |2023.04|제20회 E-PPER 프로그래밍 경진대호 장려상|
+  |2023.04|제20회 E-PPER 프로그래밍 경진대회 장려상|
   
   <br>
   
