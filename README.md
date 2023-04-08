@@ -21,9 +21,9 @@
   |2021.03 ~ 2021.12|이화여대 웹개발 커리어클럽 EFUB 1기 백엔드 개발자|
   |2021.07 ~ 2021.08|날씨 웹 통합 서비스 <a href="https://github.com/EFUB-SeeMe/SeeMe_Server">SeeMe</a> 백엔드 개발자
   |2021.09 ~ 2022.02|신촌연합 IT 창업동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 14기 백엔드 개발자|
-  |2022.12 ~ 2022.05|전문가가 제공하는 TODO 서비스 <a href="https://github.com/MyPlanIt/MyPlanIt_Back">마이플랜잇</a> 팀 백엔드 개발자|
+  |2021.12 ~ 2022.05|전문가가 제공하는 TODO 서비스 <a href="https://github.com/MyPlanIt/MyPlanIt_Back">마이플랜잇</a> 팀 백엔드 개발자|
   |2022.02 ~ 2022.08|칵테일 추천 어플리케이션 <a href="https://github.com/cocktail-Ohzu/Ohzu-BackEnd">오쥬</a> 백엔드 개발자|
-  |2022.03 ~ 2022.08|	신촌연합 IT 창업동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 15기 회장 & 백엔드 운영진|
+  |2022.03 ~ 2022.08|신촌연합 IT 창업동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 15기 회장 & 백엔드 운영진|
   |2022.10|제18회 E-PPER 프로그래밍 경진대회 우수상|
   |2022.11|이화여대 2022 제4회 소프트웨어 창업 경진대회 장려상|
   |2022.12 ~ |B2B 구독 임직원 개인화 복지 SaaS <a href="https://github.com/Giftifit/Beneeds-Server">Beneeds</a> 백엔드 개발자|
